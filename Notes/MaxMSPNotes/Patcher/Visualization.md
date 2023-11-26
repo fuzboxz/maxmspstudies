@@ -1,0 +1,4 @@
+- scope~ - oscilloscope
+- meter~
+- live.gain~
+- spectroscope~ - graphical representation of  frequency spectrum
